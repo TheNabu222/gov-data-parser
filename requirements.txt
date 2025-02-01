@@ -1,0 +1,3 @@
+﻿numpy==1.26.0  
+torch>=2.1.0  
+cryptic-lib @ git+https://github.com/user/dummy.git@v7
